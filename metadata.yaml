@@ -1,0 +1,42 @@
+_repo: Il-fantasma-di-Canterville-e-il-delitto-di-Lord-Savile_60586
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mazzoni, G.
+    gutenberg_agent_id: '51036'
+    url: http://www.gutenberg.org/2009/agents/51036
+  translator:
+    agent_name: Vannicola, Giuseppe
+    alias: Vannicola, G.
+    birthdate: 1876
+    deathdate: 1915
+    gutenberg_agent_id: '51037'
+    url: http://www.gutenberg.org/2009/agents/51037
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: Translations of "The Canterville Ghost" and "Lord Arthur Savile's Crime."
+gutenberg_issued: '2019-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60586'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- Translations into Italian'
+- !lcsh 'Ghosts -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Il fantasma di Canterville e il delitto di Lord Savile
+url: http://www.gutenberg.org/ebooks/60586
